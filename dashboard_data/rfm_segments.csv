@@ -1,0 +1,7 @@
+segment,customers,avg_recency,avg_spend,total_revenue,pct_customers,pct_revenue
+At-Risk High-Value,13961,400.2,309.3,4317961.9,14.7,27.4
+Champions,1013,93.8,372.2,377022.5,1.1,2.4
+Lost / Low-Value,41325,323.3,108.0,4464867.2,43.5,28.4
+New High-Value,14676,97.0,303.1,4447765.6,15.5,28.3
+Recent One-Timers,22140,94.9,73.1,1618008.3,23.3,10.3
+Repeat Customers,1875,298.2,273.9,513511.6,2.0,3.3
