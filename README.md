@@ -2,7 +2,7 @@
 
 End-to-end analysis of about 100K orders from the Olist Brazilian e-commerce marketplace: sales trends, customer segmentation (RFM and K-Means) and delivery performance, with an interactive Streamlit dashboard.
 
-**Live dashboard:** LIVE_LINK_HERE
+**Live dashboard:** https://ecommerce-sales-customer-analytics-8cdgizc2notutf8aquoeh7.streamlit.app/
 
 ## Business questions
 - Where does revenue come from, and how is it trending?
